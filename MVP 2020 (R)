@@ -26,7 +26,7 @@ library(ROCR)
 #Import Data
 nba_df <- read.csv('NBA_MVP_1980-2018.csv')
 str(nba_df)
-current_candidates <- read.csv('FinalMVPTest.csv')
+current_candidates <- read.csv('MVP2020Test.csv')
 str(current_candidates)
 
 
