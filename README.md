@@ -5,3 +5,8 @@ Machine Learning Algorithm that is used to predict the most valuable player in t
 of activities that Americans hold dear. One of those activities was the NBA which saw the season come to an abrupt end. 
 This however left some interesting questions that need to be solved, and with this algorithm I have done my best to solve one.
 Who should of won the MVP title? View my code to find out. 
+
+---
+## License & copyright
+
+© Rahim Abdulmalik, University of Houston Downtown Data Analytics
