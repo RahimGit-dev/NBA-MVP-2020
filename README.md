@@ -8,6 +8,16 @@ I used both a Decision Tree and a Random Forest Algorithm to create 2 machine le
 Who should of won the MVP title? View my code to find out. 
 
 ---
+## Libraries
+
+- tidyverse
+- class
+- gmodels
+- caret
+- randomForest
+- ROCR
+
+---
 ## License & copyright
 
 © Rahim Abdulmalik, University of Houston Downtown Data Analytics
